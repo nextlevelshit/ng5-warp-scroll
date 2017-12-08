@@ -1,12 +1,12 @@
 /**
- * Angular library starter
- * Build an Angular library compatible with AoT compilation & Tree shaking
- * Copyright Roberto Simonetti
+ * Angular 5 Warp Scroll
+ * Incredible warp scroll to zoom into your website
+ * Copyright Michael Czechowski
  * MIT license
- * https://github.com/robisim74/angular-library-starter
+ * https://github.com/ng5-warp-scroll
  */
 
 /**
  * Entry point for all public APIs of the package.
  */
-export * from './src/angular-library-starter';
+export * from './src/ng5-warp-scroll';

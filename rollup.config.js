@@ -30,7 +30,7 @@ export default {
     onwarn: () => { return },
     output: {
         format: 'umd',
-        name: 'ng.angularLibraryStarter',
+        name: 'ng.warpScroll',
         globals: globals,
         sourcemap: true,
         exports: 'named'
